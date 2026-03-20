@@ -30,7 +30,7 @@ cd RomM-PS3NetSrv-Cross-Mapping
 python ./RomM-PS3NetSrv-Cross-Mapping.py "/romm/library/roms/" "/ps3netsrv"
 ```
 ### Arguments
-| Variable | Default value | Description |
+| Argument | Default value | Description |
 |---|---|---|
 | argv[1] | `/ps3netsrv/ROMM_LIBRARY/` | path for RomM library |
 | argv[2] | `/ps3netsrv` | path for PS3NetSrv |
