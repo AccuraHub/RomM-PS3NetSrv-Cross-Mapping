@@ -100,4 +100,4 @@ if __name__ == '__main__':
         romm_path = None
         ps3netsrv_path = None
 
-    ScanRoMMPath().run(romm_path, ps3netsrv_path) if romm_path and ps3netsrv_path else ScanRoMMPath().run()
+    ScanRoMMPath(romm_path, ps3netsrv_path).run() if romm_path and ps3netsrv_path else ScanRoMMPath().run()
