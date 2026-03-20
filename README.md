@@ -3,6 +3,8 @@
   ![banner](https://github.com/AccuraHub/RomM-PS3NetSrv-Cross-Mapping/blob/main/banner.png?raw=true)
 
   ### Store and play your ROMs with class
+
+  ![Static Badge](https://img.shields.io/badge/Phase-Under%20development-gold)
    
 </div>
 
